@@ -358,9 +358,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Gradio](https://gradio.app/) for the user interface
 - OSHA for safety compliance guidelines
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
 Project Link: [https://github.com/yourusername/osha-safety-assistant](https://github.com/yourusername/osha-safety-assistant)
 

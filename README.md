@@ -359,7 +359,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OSHA for safety compliance guidelines
 
 
-Project Link: [https://github.com/yourusername/osha-safety-assistant](https://github.com/yourusername/osha-safety-assistant)
+Project Link: [https://github.com/yourusername/osha-safety-assistant](https://github.com/hamzajami/osha-safety-assistant)
 
 ## 🔮 Future Enhancements
 
@@ -376,13 +376,8 @@ Project Link: [https://github.com/yourusername/osha-safety-assistant](https://gi
 
 ## 📚 Documentation
 
-For detailed documentation, visit our [Wiki](https://github.com/yourusername/osha-safety-assistant/wiki).
+For detailed documentation, visit our [Wiki](https://github.com/hamzajami/osha-safety-assistant/wiki).
 
-## ⭐ Star History
-
-If you find this project helpful, please consider giving it a star!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/osha-safety-assistant&type=Date)](https://star-history.com/#yourusername/osha-safety-assistant&Date)
 
 ---
 
